@@ -2,4 +2,4 @@
 
 ## passs
 
-![https://picsum.photos/600]passs
+![passs]https://picsum.photos/600
